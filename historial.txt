@@ -1,0 +1,36 @@
+    1  whoami
+    2  pwd
+    3  cd repogit
+    4  ls
+    5  cd ..
+    6  ls
+    7  git clone 
+    8  git clone https://github.com/LukaBevilacqua/bevilacqua_vagrant.git
+    9  ls
+   10  cd bevilacqua_vagrant
+   11  ls
+   12  history
+   13  history > historial.txt
+   14  ls
+   15  cat historial.txt
+   16  git status
+   17  git add .
+   18  git commit -m "mi primer commit"
+   19  git config --global user.mail "lukabevilacqua11@gmail.com"
+   20  git config --global user.name "LukaBevilacqua"
+   21  git commit -m "mi primer commit"
+   22  git push
+   23  exit
+   24  ls
+   25  ls -la
+   26  cd .ssh
+   27  cd ..
+   28  ls
+   29  cd repogit
+   30  ls
+   31  git clone git@github.com:LukaBevilacqua/bevilacqua_vagrant.git
+   32  ls
+   33  cd bevilacqua_vagrant
+   34  ls
+   35  history
+   36  history > historial.txt
